@@ -1,5 +1,5 @@
 ```javascript
-let s = 'i love js';
+const s = 'i love js';
 console.log(s);
 ```
 ```php
